@@ -6,6 +6,7 @@ Members:
 6928 Julian William Bignell
 6741 Alexander Philip Hordern
 
+ClickUp: https://app.clickup.com/6906663/v/f/4051629
 TRELLO PAGE: https://trello.com/b/xqeQY4Yv/forge-game
 DISCORD: https://discord.gg/4J8HVr
 
